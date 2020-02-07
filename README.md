@@ -1,4 +1,4 @@
-#Lab1-Hadoop
+<h1>Lab1-Hadoop</h1>
 This Lab consists of Map Reduce programs on Hadoop.
 
 **Question-2:** Input file(input.txt) consists of the NCDC weather data and the MapReduce program returns yearly the Maximum Temperature recorded in output.txt.
